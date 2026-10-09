@@ -1,0 +1,39 @@
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Local logs
+*.log
+
+# Uploaded personal documents
+*.pdf
+*.doc
+*.docx
