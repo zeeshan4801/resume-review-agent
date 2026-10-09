@@ -1,0 +1,4 @@
+streamlit==1.32.2
+crewai==0.80.0
+pypdf==4.1.0
+litellm==1.52.16
